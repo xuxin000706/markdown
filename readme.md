@@ -14,9 +14,9 @@ aaaaa， 直接回车不能换行，<br>
 >
 >>二级缩进
 # 链接
-[1](www.baidu.com)
+[1](https://www.baidu.com/)
 
-[百度](www.baidu.com)
+[百度](https://www.baidu.com/)
 
 
 
